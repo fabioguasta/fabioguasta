@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabioguasta, Fabio Guastapaglia
-- 🌱 I’m currently learning Computer Science at University of Pisa
+- 💻 I’m currently learning Computer Science at University of Pisa
 
 <!---
 fabioguasta/fabioguasta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
