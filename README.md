@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fabioguasta, Fabio Guastapaglia
+- 👋 Hi, I’m @fabioguasta, Fabio Guastapaglia, born in Pietrasanta, '99.
 - 💻 I’m currently learning Computer Science at University of Pisa
 
 <!---
