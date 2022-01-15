@@ -2,7 +2,7 @@
 - 👽 '99.
 
 <span align="center">
-![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=fabioguasta&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunohbrito?theme=tokyonight&Ring=DD2727&Border=13DD57&Text=DD2727)](https://git.io/awesome-stats-card)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioguasta&theme=tokyonight) </span>
 
