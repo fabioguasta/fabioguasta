@@ -2,7 +2,6 @@
 - 👽 '99.
 
 <span align="center">
- My Stats:
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioguasta)
 
