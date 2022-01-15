@@ -2,7 +2,7 @@
 - 👽 '99.
 ------------------------------------------------------------------------------------------------------------------------------------
 
-<span align=left>
+<span align="left">
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioguasta&show_icons=true&theme=tokyonight&hide_rank=true)
   
