@@ -4,7 +4,7 @@
 
  ![Jokes Card](https://readme-jokes.vercel.app/api)
  
- ![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=fabioguasta)
 <!---
 fabioguasta/fabioguasta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
