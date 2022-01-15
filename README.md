@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @fabioguasta, Fabio Guastapaglia. Born in Pietrasanta, '99.
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=fabioguasta&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioguasta)
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=fabioguasta&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioguasta)
 
 
  
