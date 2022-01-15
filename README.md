@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @fabioguasta, Fabio Guastapaglia. Born in Pietrasanta, '99.
+- 👋 Hi, I’m @fabioguasta, Fabio Guastapaglia. 
+- 👽 '99.
 
 
 
