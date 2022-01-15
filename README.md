@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fabioguasta, Fabio Guastapaglia. 
 - 👽 '99.
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioguasta)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioguasta&theme=tokyonight)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
