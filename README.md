@@ -6,8 +6,8 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioguasta&repo=WORTH&theme=tokyonight&description_lines_count=1)](https://github.com/fabioguasta/WORTH) 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioguasta&repo=farm2&theme=tokyonight&description_lines_count=1)](https://github.com/fabioguasta/farm2)
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioguasta&repo=javaProjectPR2&theme=tokyonight&description_lines_count=1)](https://github.com/fabioguasta/javaProjectPR2)   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioguasta&repo=OCamlProjectPR2&theme=tokyonight&description_lines_count=1)](https://github.com/fabioguasta/OCamlProjectPR2)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioguasta&repo=javaProjectPR2&theme=tokyonight&description_lines_count=1&border_radius=10)](https://github.com/fabioguasta/javaProjectPR2) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabioguasta&repo=OCamlProjectPR2&theme=tokyonight&description_lines_count=1&border_radius=10)](https://github.com/fabioguasta/OCamlProjectPR2)
 
 
 
